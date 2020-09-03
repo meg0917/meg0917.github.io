@@ -1,0 +1,38 @@
+﻿body {
+    font: 100% "ヒラギノ角ゴ ProN W3";
+    color: #292929;
+    background: mintcream;
+    width: 750px;
+}
+
+header {
+    background: #9eebf5;
+    border: groove;
+    min-height: 150px;
+}
+
+footer {
+    background: #9eebf5;
+    border: groove;
+    min-height: 150px;
+}
+
+.waku {
+    margin: 10px 0px 10px 0px;
+    background: #9eebf5;
+    text-align: center;
+    border: groove;
+    min-height: 1000px;
+}
+
+.dai {
+    color: #444444;
+    font-size: 30px;
+    font-weight: bold;
+}
+
+
+/*
+ header, footer, .waku {
+    min-width: 1000px;
+}*/
