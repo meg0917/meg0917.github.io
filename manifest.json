@@ -1,7 +1,7 @@
 {
     "short_name": "連絡帳",
     "name": "保育連絡帳",
-    "display": "fullscreen",
+    "display": "standalone",
     "start_url": "index.html",
     "background_color": "#fff",
     "theme_color": "#c4ff89",
