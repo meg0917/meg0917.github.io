@@ -2,8 +2,8 @@ body {
     font: 100% "ヒラギノ角ゴ ProN W3";
     color: #292929;
     background: mintcream;
-    width: 95%px;
-    margin: 10px 0px 10px 0px;
+    width: 95%;
+    
 }
 
 header {
@@ -19,7 +19,7 @@ footer {
 }
 
 .waku {
-    
+    margin: 10px 0px 10px 0px;
     background: #9eebf5;
     text-align: center;
     border: groove;
